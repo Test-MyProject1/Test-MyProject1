@@ -9,7 +9,6 @@ My journey in investigation movies led me to develop a passion for cybersecurity
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My journey in investigation movies led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +42,6 @@ My journey in investigation movies led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     <a href="https://www.credly.com/badges/3dc4df86-435f-4403-b138-b85d5b4a90de">
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20V2-0B57D0?&style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
