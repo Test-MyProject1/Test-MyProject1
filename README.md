@@ -46,11 +46,15 @@ My journey in investigation movies led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.credly.com/badges/3dc4df86-435f-4403-b138-b85d5b4a90de">
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20V2-0B57D0?&style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+</a>
+    <a href="https://tryhackme.com/certificate/THM-8CW5KK7O2P">
+<img src="https://img.shields.io/badge/-THM%20SOC%20Level%201-1E1E1E?&style=for-the-badge&logo=TryHackMe&logoColor=green)](https://tryhackme.com/path/outline/soclevel1" />
+</a>
+    <a href="https://tryhackme.com/certificate/THM-4YE9BEYJ5J">
+<img src="https://img.shields.io/badge/-THM%20SOC%20Level%202-353535?&style=for-the-badge&logo=TryHackMe&logoColor=green)](https://tryhackme.com/path/outline/soclevel2" />
+</a>
 </div>
 
 ## Projects
